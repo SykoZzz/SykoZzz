@@ -35,12 +35,15 @@
 
 ---
 
-### 📊 Mis Métricas
+### 🏆 Mis Logros y Racha
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SykoZzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35eb93&icon_color=35eb93)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SykoZzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35eb93)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SykoZzz&theme=tokyonight&hide_border=true)
+
+<br>
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=SykoZzz&theme=tokyonight&no-frame=true&margin-w=15&no-bg=true)
 
 </div>
 
