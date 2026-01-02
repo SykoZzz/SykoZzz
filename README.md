@@ -35,13 +35,9 @@
 
 ---
 
-### 🏆 Mis Logros y Racha
+### 🏆 Mis Logros
 
 <div align="center">
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SykoZzz&theme=tokyonight&hide_border=true)
-
-<br>
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=SykoZzz&theme=tokyonight&no-frame=true&margin-w=15&no-bg=true)
 
