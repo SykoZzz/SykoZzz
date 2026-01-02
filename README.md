@@ -12,7 +12,7 @@
   </p>
 
   <p align="center">
-    <a href="www.linkedin.com/in/gabriel-león-cangalaya" target="_blank">
+    <a href="https://www.linkedin.com/in/gabriel-león-cangalaya" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:gabrielomchos88@gmail.com">
@@ -29,21 +29,17 @@
 
 | Frontend | Backend | Base de Datos | Herramientas |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" width="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,cs,dotnet" width="40" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlserver" width="40" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" width="40" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,cs,dotnet" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlserver" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /> |
 
 </div>
 
 ---
 
-### 📊 Mis Métricas en GitHub
+### 📊 Mis Métricas
 
 <div align="center">
-  <a href="https://github.com/SykoZzz">
-    <img src="https://github-readme-stats.vercel.app/api?username=SykoZzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35eb93&icon_color=35eb93" height="150" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/SykoZzz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SykoZzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35eb93" height="150" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SykoZzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35eb93&icon_color=35eb93" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SykoZzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35eb93" height="160" alt="Top Languages" />
 </div>
 
 <br>
@@ -56,5 +52,5 @@
 
 ---
 <div align="center">
-  <small>© 2026 Gabo | Construyendo el futuro línea por línea.</small>
+  <small>© 2026 Gabriel León | Construyendo el futuro línea por línea.</small>
 </div>
