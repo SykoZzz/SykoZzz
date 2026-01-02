@@ -2,7 +2,7 @@
   <h1 align="center">Hola, soy Gabo 👋</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=35eb93&center=true&vCenter=true&width=435&lines=Ingeniero+de+Software+Full+Stack;Desarrollador+Backend+%26+Frontend;Estudiante+USMP;Entusiasta+de+Cloud+Computing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=35eb93&center=true&vCenter=true&width=600&lines=Ingeniero+de+Software+Full+Stack;Desarrollador+Backend+%26+Frontend;Estudiante+USMP;Entusiasta+de+Cloud+Computing" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -29,7 +29,7 @@
 
 | Frontend | Backend | Base de Datos | Herramientas |
 | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" width="200" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,cs,dotnet" width="200" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlserver" width="160" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" width="200" /> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" width="40" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,java,python,cs,dotnet" width="40" /> | <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlserver" width="40" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" width="40" /> |
 
 </div>
 
@@ -38,8 +38,12 @@
 ### 📊 Mis Métricas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SykoZzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35eb93&icon_color=35eb93" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SykoZzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35eb93" height="150" alt="languages graph" />
+  <a href="https://github.com/SykoZzz">
+    <img src="https://github-readme-stats.vercel.app/api?username=SykoZzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35eb93&icon_color=35eb93" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/SykoZzz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SykoZzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35eb93" height="150" alt="Top Languages" />
+  </a>
 </div>
 
 <br>
