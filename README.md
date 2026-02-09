@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/gabriel-leon-cangalaya">
+    <a href="https://www.linkedin.com/in/gabriel-le%C3%B3n-c/">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
     <a href="mailto:gabrielomchos88@gmail">
